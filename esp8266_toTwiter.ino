@@ -2,7 +2,7 @@
 
 // Wi-Fi 
 const char* ssid = ""; //(SSID)
-const char* password = "9083!@spstar"; //Senha
+const char* password = ""; //Senha
 
 
 WiFiClient client;
