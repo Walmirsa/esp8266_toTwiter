@@ -9,7 +9,7 @@ WiFiClient client;
 
 // ThingSpeak 
 const int channelID = 10;
-String writeAPIKey = "5CKAXMD6V1I3WLTS"; // API
+String writeAPIKey = ""; // APIKey
 const char* server = "api.thingspeak.com";
 const int postingInterval = 1 * 1000; //Um envio a cada 20 segundos
 String tsData;
